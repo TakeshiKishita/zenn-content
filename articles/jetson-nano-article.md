@@ -8,7 +8,7 @@ slug: jetson-nano-article
 date: 2020-06-07T14:39:00.001Z
 ---
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 JETSON NANO セットアップ：ハード編
 

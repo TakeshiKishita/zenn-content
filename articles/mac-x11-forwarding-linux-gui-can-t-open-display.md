@@ -10,7 +10,7 @@ date: 2019-07-07T04:44:00.002Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 Mac から X11 forwarding を使用してLinux サーバの GUI アプリを表示する（Can't open display トラブルシュート編）

@@ -10,7 +10,7 @@ date: 2019-02-02T08:24:00.002Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 Ubuntu 18.04 セットアップ（SSH編）

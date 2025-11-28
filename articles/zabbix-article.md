@@ -10,7 +10,7 @@ date: 2019-07-11T17:09:00.002Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 「Zabbixサーバーが動作していません」と、なった時の対処法

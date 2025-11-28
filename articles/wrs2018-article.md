@@ -10,7 +10,7 @@ date: 2020-01-14T16:17:00.002Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 WRS2018に出場していた(遠い)思い出

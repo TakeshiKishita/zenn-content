@@ -10,7 +10,7 @@ date: 2018-11-27T15:05:00.002Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 最短でGPU機械学習環境を構築する！

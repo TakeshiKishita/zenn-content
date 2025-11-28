@@ -11,7 +11,7 @@ date: 2018-11-27T15:10:00.002Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 GCE(Google Compute Engine)にGCS(Google Cloud Storage)をマウントする
 

@@ -10,7 +10,7 @@ date: 2019-06-14T14:36:00.001Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 Ubuntu 18.04 で NVIDIA RTX2070 のGPGPU機械学習環境を作る

@@ -10,7 +10,7 @@ date: 2019-02-07T14:37:00.001Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 Tensorflow Object Detection APIの実行環境を作る

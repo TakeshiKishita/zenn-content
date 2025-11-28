@@ -10,7 +10,7 @@ date: 2019-02-05T16:05:00.002Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 Ubuntu18.04のCPU、GPU 温度を、Zabbix4.0から監視する

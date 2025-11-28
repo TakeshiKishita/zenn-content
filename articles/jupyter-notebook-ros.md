@@ -10,7 +10,7 @@ date: 2019-05-25T17:11:00.002Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 Jupyter notebook で ROS を動かす

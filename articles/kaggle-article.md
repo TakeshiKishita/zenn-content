@@ -10,7 +10,7 @@ date: 2019-05-26T03:55:00.001Z
 
 
 
-
+※過去の[blogger記事](https://slowlog-tkc.blogspot.com)を移植しました
 
 
 Kaggleカーネル環境再現
