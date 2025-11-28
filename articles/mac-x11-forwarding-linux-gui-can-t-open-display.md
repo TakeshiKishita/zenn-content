@@ -1,5 +1,5 @@
 ---
-title: "Mac から X11 forwarding を使用してLinux サーバの GUI アプリを表示する（Can't open display トラブルシュート編）"
+title: "title: MacからX11 forwardingでLinux GUIを表示する（Can't open display対処）"
 emoji: "💻"
 type: "tech"
 topics: ["mac", "x11", "forwarding"]
