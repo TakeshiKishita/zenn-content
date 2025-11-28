@@ -1,7 +1,11 @@
 ---
 title: "Jupyter notebook で ROS を動かす"
-date: 2019-05-25T17:11:00.002Z
+emoji: "📓"
+type: "tech"
+topics: ["jupyter", "notebook", "ros"]
+published: true
 slug: jupyter-notebook-ros
+date: 2019-05-25T17:11:00.002Z
 ---
 
 

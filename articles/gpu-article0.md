@@ -1,7 +1,11 @@
 ---
 title: "最短でGPU機械学習環境を構築する！"
+emoji: "🚀"
+type: "tech"
+topics: ["gpu"]
+published: true
+slug: gpu-article0
 date: 2018-11-27T15:05:00.002Z
-slug: gpu
 ---
 
 

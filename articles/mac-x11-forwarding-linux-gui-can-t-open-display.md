@@ -1,7 +1,11 @@
 ---
 title: "Mac から X11 forwarding を使用してLinux サーバの GUI アプリを表示する（Can't open display トラブルシュート編）"
-date: 2019-07-07T04:44:00.002Z
+emoji: "💻"
+type: "tech"
+topics: ["mac", "x11", "forwarding"]
+published: true
 slug: mac-x11-forwarding-linux-gui-can-t-open-display
+date: 2019-07-07T04:44:00.002Z
 ---
 
 

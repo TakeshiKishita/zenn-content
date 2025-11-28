@@ -1,7 +1,11 @@
 ---
 title: "WRS2018に出場していた(遠い)思い出"
+emoji: "🏆"
+type: "tech"
+topics: ["wrs2018"]
+published: true
+slug: wrs2018-article
 date: 2020-01-14T16:17:00.002Z
-slug: wrs2018
 ---
 
 

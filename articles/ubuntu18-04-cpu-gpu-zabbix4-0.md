@@ -1,7 +1,11 @@
 ---
 title: "Ubuntu18.04のCPU、GPU 温度を、Zabbix4.0から監視する"
-date: 2019-02-05T16:05:00.002Z
+emoji: "📈"
+type: "tech"
+topics: ["ubuntu18", "cpu", "gpu"]
+published: true
 slug: ubuntu18-04-cpu-gpu-zabbix4-0
+date: 2019-02-05T16:05:00.002Z
 ---
 
 

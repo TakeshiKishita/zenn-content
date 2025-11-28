@@ -1,7 +1,11 @@
 ---
 title: "Ubuntu 18.04 セットアップ（SSH編）"
-date: 2019-02-02T08:24:00.002Z
+emoji: "🔑"
+type: "tech"
+topics: ["ubuntu", "ssh"]
+published: true
 slug: ubuntu-18-04-ssh
+date: 2019-02-02T08:24:00.002Z
 ---
 
 

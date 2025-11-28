@@ -1,7 +1,11 @@
 ---
 title: "GCE(Google Compute Engine)にGCS(Google Cloud Storage)をマウントする"
-date: 2018-11-27T15:10:00.002Z
+emoji: "☁️"
+type: "tech"
+topics: ["gce", "google", "compute"]
+published: true
 slug: gce-google-compute-engine-gcs-google-cloud-storage
+date: 2018-11-27T15:10:00.002Z
 ---
 
 

@@ -1,7 +1,11 @@
 ---
 title: "Tensorflow Object Detection APIの実行環境を作る"
-date: 2019-02-07T14:37:00.001Z
+emoji: "📷"
+type: "tech"
+topics: ["tensorflow", "object", "detection"]
+published: true
 slug: tensorflow-object-detection-api
+date: 2019-02-07T14:37:00.001Z
 ---
 
 

@@ -1,7 +1,11 @@
 ---
 title: "Kaggleカーネル環境再現"
+emoji: "📊"
+type: "tech"
+topics: ["kaggle"]
+published: true
+slug: kaggle-article
 date: 2019-05-26T03:55:00.001Z
-slug: kaggle
 ---
 
 

@@ -1,7 +1,11 @@
 ---
 title: "「Zabbixサーバーが動作していません」と、なった時の対処法"
+emoji: "🚨"
+type: "tech"
+topics: ["zabbix"]
+published: true
+slug: zabbix-article
 date: 2019-07-11T17:09:00.002Z
-slug: zabbix
 ---
 
 

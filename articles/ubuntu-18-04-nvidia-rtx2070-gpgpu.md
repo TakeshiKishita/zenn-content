@@ -1,7 +1,11 @@
 ---
 title: "Ubuntu 18.04 で NVIDIA RTX2070 のGPGPU機械学習環境を作る"
-date: 2019-06-14T14:36:00.001Z
+emoji: "🧠"
+type: "tech"
+topics: ["ubuntu", "nvidia", "rtx2070"]
+published: true
 slug: ubuntu-18-04-nvidia-rtx2070-gpgpu
+date: 2019-06-14T14:36:00.001Z
 ---
 
 

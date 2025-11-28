@@ -1,7 +1,11 @@
 ---
 title: "JETSON NANO セットアップ：ハード編"
+emoji: "🤖"
+type: "tech"
+topics: ["jetson", "nano"]
+published: true
+slug: jetson-nano-article
 date: 2020-06-07T14:39:00.001Z
-slug: jetson-nano
 ---
 
 
